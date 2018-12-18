@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's Official! TEST
+title: It's Official!
 ---
 
 February 10, 2018

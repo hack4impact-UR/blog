@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Hack4Impact UR
 
-### More Information
+Hack4Impact UR is a student organization that develops semesterly projects for non-profit organizations. We leverage our knowledge and abilities to created software, build community on campus, and develop members personally and professionally.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[hack4impact.richmond@gmail.com](mailto:hack4impact.richmond@gmail.com)
