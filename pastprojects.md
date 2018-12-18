@@ -28,7 +28,7 @@ In the spring 2018 semester, we built upon the work done by the UPenn Hack4Impac
 
 ### Find the [live site](https://next-generation-scholars.herokuapp.com/) and [code](https://github.com/hack4impact/next-gen-scholars) here!
 
-#### See screenshots and a more detailed breakdown [here]({{ site.baseurl }}/Fall-2018-Project/)
+#### See screenshots and a more detailed breakdown [here]({{ site.baseurl }}/Spring-2018-Project/)
 
 ##### Email us
 [hack4impact.richmond@gmail.com](mailto:hack4impact.richmond@gmail.com)
