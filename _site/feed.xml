@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-17T15:18:48-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hack4Impact University of Richmond</title><subtitle>Collaborating with nonprofits to produce tech with an impact</subtitle><entry><title type="html">Spring 2018 Project- Admit-Ed</title><link href="http://localhost:4000/Spring-Project-NGS/" rel="alternate" type="text/html" title="Spring 2018 Project- Admit-Ed" /><published>2018-05-04T00:00:00-04:00</published><updated>2018-05-04T00:00:00-04:00</updated><id>http://localhost:4000/Spring-Project-NGS</id><content type="html" xml:base="http://localhost:4000/Spring-Project-NGS/">&lt;p&gt;May 4, 2018&lt;/p&gt;
+
+&lt;p&gt;In spring 2018 we expanded on the Admit-Ed project for Next Generation Scholars. We worked with two key members of the non-profit to determine what their goals for the technology were, and scoped out specific feature adds to help them meet those goals, and delivered a product that they deployed this summer with 50 of their students.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/homepage.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;find-the-live-site-and-code-here&quot;&gt;Find the &lt;a href=&quot;https://next-generation-scholars.herokuapp.com/&quot;&gt;live site&lt;/a&gt; and &lt;a href=&quot;https://github.com/hack4impact/next-gen-scholars&quot;&gt;code&lt;/a&gt; here!&lt;/h3&gt;
+
+&lt;h1 id=&quot;features&quot;&gt;Features:&lt;/h1&gt;
+
+&lt;h2 id=&quot;auto-populated-college-profiles&quot;&gt;Auto-Populated College Profiles&lt;/h2&gt;
+
+&lt;p&gt;We import updated college profile information from ed.gov to ensure that the data Admit-Ed provides to students is accurate and up-to-date. Via google translate, we are also able to provide this information in Spanish for parents and students.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/college_profile_spanish.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;scattergrams&quot;&gt;Scattergrams&lt;/h2&gt;
+
+&lt;p&gt;Admit-Ed provides functionality on College Profile pages to show scattergrams of students’ admit statuses based on their GPA and test scores. They are able to add this information via a CSV upload. This will allow Next Generation Scholars to provide this sort of graph data specifically for the local students that they serve.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scattergram.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;student-profile&quot;&gt;Student Profile&lt;/h2&gt;
+
+&lt;p&gt;We provided an easy way for students to track their interested colleges/majors, their applications for schools and for scholarships, and the net cost to them of different schools they’ve been accepted to via a student profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/student_profile.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;student-database&quot;&gt;Student Database&lt;/h2&gt;
+
+&lt;p&gt;We also ensured counselors who work at Next Generation Scholars are able to view and filter all students in the system based on essay status etc. This allows the counselors to make sure they keep on top of their students and provides more of the college counseling relationship.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/student_database.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;view-and-search-colleges&quot;&gt;View and Search Colleges&lt;/h2&gt;
+
+&lt;p&gt;Students and counselors can view and search through lists of colleges. Colleges can also be sorted by deadline for admission or financial aid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/colleges.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">May 4, 2018</summary></entry><entry><title type="html">It’s Official!</title><link href="http://localhost:4000/First-Post/" rel="alternate" type="text/html" title="It's Official!" /><published>2018-02-10T00:00:00-05:00</published><updated>2018-02-10T00:00:00-05:00</updated><id>http://localhost:4000/First-Post</id><content type="html" xml:base="http://localhost:4000/First-Post/">&lt;p&gt;February 10, 2018&lt;/p&gt;
+
+&lt;p&gt;Hack4Impact is coming to the University of Richmond! This organization was originally founded at the University of Pennsylvania and focuses on leveraging tech skills for good. h4i works to develop a project for a new non-profit organization each semester and is dedicated to upholding the values found at https://hack4impact.org/about/&lt;/p&gt;
+
+&lt;p&gt;h4i expanded and added 7 more chapters to their ranks Fall 2017 (more on that here), and h4i@UR is in the second wave of chapter incubation!&lt;/p&gt;
+
+&lt;p&gt;h4i@UR is being co-founded by Emily Everett (emily.everett@richmond.edu) and Melissa Gu (melissa.gu@richmond.edu) and is working with a national board member to get everything off the ground smoothly!&lt;/p&gt;
+
+&lt;p&gt;Interested? Check out the national website (https://hack4impact.org/) and email hack4impact.richmond@gmail.com!&lt;/p&gt;</content><author><name></name></author><summary type="html">February 10, 2018</summary></entry><entry><title type="html">Recruitment is Live!</title><link href="http://localhost:4000/Recruitment/" rel="alternate" type="text/html" title="Recruitment is Live!" /><published>2018-02-10T00:00:00-05:00</published><updated>2018-02-10T00:00:00-05:00</updated><id>http://localhost:4000/Recruitment</id><content type="html" xml:base="http://localhost:4000/Recruitment/">&lt;p&gt;February 10, 2018&lt;/p&gt;
+
+&lt;p&gt;We are currently recruiting new members for Spring 2018! This spring we will be working on a database project to help our client (more on that here!) move from print to digital record-keeping, accessing, and report generating!&lt;/p&gt;
+
+&lt;p&gt;Think you might be interested? Keep reading for more information!&lt;/p&gt;
+
+&lt;h1 id=&quot;what-we-are&quot;&gt;What we are:&lt;/h1&gt;
+
+&lt;p&gt;Hack4Impact is a 501(c)(3) student nonprofit dedicated to building software for social impact. Each semester, we partner with nonprofits and social-good organizations to build projects that solve problems in the sectors of education, food access, environment, poverty alleviation, and more.&lt;/p&gt;
+
+&lt;h1 id=&quot;if-you-are&quot;&gt;If YOU are:&lt;/h1&gt;
+
+&lt;p&gt;Excited about and resonate deeply with our mission and values: https://hack4impact.org/about/
+Passionate about software and social impact
+Dedicated to learning
+Eager to apply your skills to affect real lives&lt;/p&gt;
+
+&lt;p&gt;Don’t have a lot of coding experience? That’s okay! We’re looking for students with programming knowledge at the CMSC150 level and above! Contact us at hack4impact.richmond@gmail.com if you have additional questions!&lt;/p&gt;
+
+&lt;h1 id=&quot;what-we-do&quot;&gt;What we do:&lt;/h1&gt;
+
+&lt;p&gt;Develop and ship a project with tangible impact every semester
+Work on various open-source software initiatives within the organization
+Gain the skills necessary to become a full-stack developer
+Learn how to identify user needs in order to design the best products&lt;/p&gt;
+
+&lt;h1 id=&quot;what-we-need&quot;&gt;What we need:&lt;/h1&gt;
+
+&lt;p&gt;Be willing to commit around 8-10 hours a week while working with Hack4Impact board and non-profit client
+Have a graduation year of 2018 - 2021
+Be willing to take on a leadership role as one of those first members of the UR chapter&lt;/p&gt;
+
+&lt;h1 id=&quot;why-should-you-join&quot;&gt;Why should you join?&lt;/h1&gt;
+
+&lt;p&gt;As a technical developer, you’ll be exposed to full-stack development, getting a chance to work on various parts of a product each semester. You’ll attend internal workshops on various technologies, learn from older members who have extensive industry experience, and build a product each semester that will be used by other people.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, you will have many opportunities to gain leadership experience and shape our organization through the various roles available to you. As a technical developer, you have the opportunity to collaborate and work directly with nonprofit clients, lead, and/or manage a team of developers, through our Project Manager and Technical Lead roles each semester. As a Hack4Impact member,  you can lead the organization’s initiatives (or start your own!) in areas like impact assessment, diversity &amp;amp; inclusion, career development, and more, through our Activity Lead roles. As an organization and as a community, we care about and actively support the individual development of each member, be it professional or personal.&lt;/p&gt;
+
+&lt;h1 id=&quot;interested&quot;&gt;Interested?&lt;/h1&gt;
+
+&lt;p&gt;Fill out the google form linked &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfnJBjCwQVKlXC_cXB3Qvmt_Z1kLRlF3ZouYPLEQ1G6riWWPg/viewform&quot;&gt;here&lt;/a&gt; to get started!&lt;/p&gt;
+
+&lt;p&gt;Feel free to email hack4impact.richmond@gmail.com with any questions or contact co-founders Emily Everett (emily.everett@richmond.edu) and Melissa Gu (melissa.gu@richmond.edu) for more information.&lt;/p&gt;</content><author><name></name></author><summary type="html">February 10, 2018</summary></entry></feed>
