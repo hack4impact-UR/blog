@@ -4,7 +4,7 @@ title: Past Projects
 permalink: /pastprojects/
 ---
 
-### Fall 2018
+## Fall 2018
 
 Nonprofit: College Readiness Initiative
 
@@ -16,7 +16,7 @@ In the fall 2018 semester, we worked with the Richmond nonprofit the College Rea
 
 ### See screenshots and a more detailed breakdown [here]({{ site.baseurl }}/Fall-2018-Project/)
 
-### Spring 2018
+## Spring 2018
 
 Admit-Ed
 
